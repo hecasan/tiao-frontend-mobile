@@ -5,6 +5,20 @@
   text-align: center;
 }
 
+.tema-claro {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
+.tema-escuro {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
